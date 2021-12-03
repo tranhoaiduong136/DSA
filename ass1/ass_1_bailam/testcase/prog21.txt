@@ -1,0 +1,8 @@
+Move R1, true
+Call 3A
+Move  R1, 2
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Halt

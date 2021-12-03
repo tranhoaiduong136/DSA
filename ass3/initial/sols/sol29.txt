@@ -1,0 +1,26 @@
+12
+20
+30
+10
+24
+12
+Print replacement buffer
+14 26 false
+12 23 false
+10 30 false
+11 24 true
+18 26 false
+10000 26 false
+1026 26 false
+1025 12 true
+3 12 true
+Print search buffer
+Prime memory:
+1026 26 false
+11 24 true
+12 23 false
+3 12 true
+14 26 false
+10000 26 false
+10 30 false
+1025 12 true

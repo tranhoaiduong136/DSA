@@ -1,0 +1,11 @@
+12
+20
+Print replacement buffer
+3 12 true
+2 24 true
+16 2 false
+Print search buffer
+Prime memory:
+16 2 false
+2 24 true
+3 12 true

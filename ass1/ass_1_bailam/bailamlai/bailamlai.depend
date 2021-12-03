@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1617203343 source:c:\users\duong\desktop\ass_1_bailam\main.cpp
+	"VM.h"
+	"chrono"
+
+1617204209 c:\users\duong\desktop\ass_1_bailam\vm.h
+	"main.h"
+
+1614694860 c:\users\duong\desktop\ass_1_bailam\main.h
+	<iostream>
+	<string>
+	<fstream>
+	<regex>
+	"error.h"
+
+1614694842 c:\users\duong\desktop\ass_1_bailam\error.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1617204272 source:c:\users\duong\desktop\ass_1_bailam\vm.cpp
+	"VM.h"
+
+1617292388 source:c:\users\duong\desktop\data_structure\ass\ass1\ass_1_bailam\main.cpp
+	"VM.h"
+	"chrono"
+
+1617204209 c:\users\duong\desktop\data_structure\ass\ass1\ass_1_bailam\vm.h
+	"main.h"
+
+1614694860 c:\users\duong\desktop\data_structure\ass\ass1\ass_1_bailam\main.h
+	<iostream>
+	<string>
+	<fstream>
+	<regex>
+	"error.h"
+
+1614694842 c:\users\duong\desktop\data_structure\ass\ass1\ass_1_bailam\error.h
+	<string>
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1617209168 source:c:\users\duong\desktop\data_structure\ass\ass1\ass_1_bailam\vm.cpp
+	"VM.h"
+

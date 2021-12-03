@@ -1,0 +1,25 @@
+Print replacement buffer
+20 20 false
+40 40 false
+60 60 false
+65 65 false
+35 35 false
+45 45 false
+42 42 false
+Print search buffer
+Print AVL in inorder:
+20 20 false
+35 35 false
+40 40 false
+42 42 false
+45 45 false
+60 60 false
+65 65 false
+Print AVL in preorder:
+40 40 false
+35 35 false
+20 20 false
+60 60 false
+45 45 false
+42 42 false
+65 65 false

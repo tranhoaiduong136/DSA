@@ -1,0 +1,10 @@
+Move R1, true
+Move R2, false
+CmpEQ R1, R2
+CmpNE R1, R2
+CmpGT R1, R2
+CmpLT R1, R2
+CmpGE R1, R2
+CmpLE R1, R2
+Output R1
+Halt

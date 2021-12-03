@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1619680654 source:c:\users\duong\desktop\ass2_huy\src\main.cpp
+	<stdio.h>
+	"main.h"
+	"Cache.h"
+	"chrono"
+	<string>
+
+1619680737 c:\users\duong\desktop\ass2_huy\src\main.h
+	<bits/stdc++.h>
+	<string>
+
+1619663695 c:\users\duong\desktop\ass2_huy\src\cache.h
+	"main.h"
+
+1619670607 source:c:\users\duong\desktop\ass2_huy\src\cache.cpp
+	"Cache.h"
+

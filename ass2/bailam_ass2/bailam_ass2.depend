@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1619629307 source:c:\users\duong\desktop\data_structure\ass\ass2\src\main.cpp
+	<stdio.h>
+	"main.h"
+	"Cache.h"
+
+1619680602 c:\users\duong\desktop\data_structure\ass\ass2\src\main.h
+	<bits/stdc++.h>
+	<string>
+
+1619713338 c:\users\duong\desktop\data_structure\ass\ass2\src\cache.h
+	"main.h"
+
+1617901158 c:\users\duong\desktop\data_structure\ass\ass2\src\cache.cpp
+	"Cache.h"
+
+1619714075 source:c:\users\duong\desktop\data_structure\ass\ass2\src\cache.cpp
+	"Cache.h"
+

@@ -1,0 +1,5 @@
+Move R1, 65536A
+Store R1, 32000
+Load R2, R1
+Output R2
+Halt

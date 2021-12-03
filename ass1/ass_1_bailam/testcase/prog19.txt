@@ -1,0 +1,45 @@
+Move R1, 10
+Move R2, 20
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Add R1, R2
+Minus R1, 20.5
+Mul R1, 20
+Div R2, 9
+Output R1
+Output R2
+CmpEQ R1, R2
+Output R1
+CmpGT R2, 9
+Output R2
+Halt

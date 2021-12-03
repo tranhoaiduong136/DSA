@@ -1,0 +1,73 @@
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+P
+E
+
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 1 1
+P
+E
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 2 2
+P
+E
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 3 3
+P
+E
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 2 2
+R 1 1
+P
+E
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 3 3
+R 1 1
+P
+E
+
+M 3
+S A
+T 2
+R 1 1
+R 2 2
+R 3 3
+R 3 3
+R 2 2
+R 1 1
+P
+E

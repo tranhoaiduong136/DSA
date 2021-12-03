@@ -1,0 +1,16 @@
+2
+1
+Print replacement buffer
+3 3 true
+2 2 true
+1 1 true
+Print search buffer
+Print AVL in inorder:
+1 1 true
+2 2 true
+3 3 true
+Print AVL in preorder:
+2 2 true
+1 1 true
+3 3 true
+

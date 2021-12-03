@@ -1,0 +1,7 @@
+Input R1
+Input R2
+Input R3
+Output R1
+Output R2
+Output R3
+Halt

@@ -1,0 +1,6 @@
+Output 1
+Output 1A
+Output 1.2
+Output true
+Output false
+Halt

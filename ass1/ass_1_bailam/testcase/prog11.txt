@@ -1,0 +1,6 @@
+Move R1, 1
+Call 2A
+Output R1
+Add R1, 1
+Jump 1A
+Halt

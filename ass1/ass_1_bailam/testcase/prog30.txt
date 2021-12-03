@@ -1,0 +1,14 @@
+Move R1, 2
+Move R2, 4
+Call 4A
+Add R1, R1
+Output R1
+Add R2, 3
+Output R2
+Mul R2, R1
+Move R3, 10
+Call 2A
+CmpNE R1, R2
+JumpIf R1, 13A
+Return
+Halt

@@ -1,0 +1,10 @@
+Print replacement buffer
+13 100 false
+12 12 false
+Print search buffer
+Print AVL in inorder:
+12 12 false
+13 100 false
+Print AVL in preorder:
+13 100 false
+12 12 false

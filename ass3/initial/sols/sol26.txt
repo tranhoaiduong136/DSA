@@ -1,0 +1,16 @@
+Print replacement buffer
+25 10003 false
+30 30 true
+10 10 true
+20 20 true
+Print search buffer
+Print AVL in inorder:
+10 10 true
+20 20 true
+25 10003 false
+30 30 true
+Print AVL in preorder:
+20 20 true
+10 10 true
+30 30 true
+25 10003 false

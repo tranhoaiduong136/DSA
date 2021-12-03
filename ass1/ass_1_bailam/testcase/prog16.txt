@@ -1,0 +1,4 @@
+Move R1, 0
+Add R1, 002200
+Output R1
+Halt

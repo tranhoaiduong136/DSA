@@ -1,0 +1,3 @@
+Test case 6:
+Elasped time of the program: 0.025988
+TRUE

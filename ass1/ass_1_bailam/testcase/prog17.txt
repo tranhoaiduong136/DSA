@@ -1,0 +1,6 @@
+Move R1, 0A
+Move R2, 0A
+Store R2, true
+Not R1
+Output R1
+Halt

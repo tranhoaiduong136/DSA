@@ -1,0 +1,5 @@
+Move R2, true
+Move R1, R2
+Not R1
+Output R1
+Halt

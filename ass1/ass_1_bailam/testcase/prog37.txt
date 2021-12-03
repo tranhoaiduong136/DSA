@@ -1,0 +1,5 @@
+Move R1, 10
+Move R2, 20 
+Add R1, R2
+Minus R1, 00A
+Halt

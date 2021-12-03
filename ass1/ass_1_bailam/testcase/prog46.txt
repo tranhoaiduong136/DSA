@@ -1,0 +1,10 @@
+Move R1, true
+Or R1, false
+Output R1
+Move R1, false
+Or R1, false
+Output R1
+Move R2, true
+Or R1, R2
+Output R1
+Halt

@@ -1,0 +1,9 @@
+Move R1, 2.1
+Move R2, 2.5
+Minus R1, R2
+Output R1
+Mul R1, R2
+Output R1
+Div R2, R1
+Output R2
+Halt

@@ -1,0 +1,38 @@
+12
+12
+15
+15
+44
+12
+24
+12
+12
+15
+15
+44
+12
+15
+15
+44
+Print replacement buffer
+10 44 true
+11 24 true
+9 22 true
+8 12 true
+7 30 true
+6 42 true
+Print search buffer
+Print AVL in inorder:
+6 42 true
+7 30 true
+8 12 true
+9 22 true
+10 44 true
+11 24 true
+Print AVL in preorder:
+9 22 true
+7 30 true
+6 42 true
+8 12 true
+10 44 true
+11 24 true

@@ -1,0 +1,8 @@
+Jump 2A
+Output 3A
+Output 1
+Move R1, true
+JumpIf R1, 6A
+Output 2A
+Output 1.2
+Halt 
